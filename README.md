@@ -6,6 +6,4 @@ It is run using npm run dev
 
 
 
-## Reference
 
-https://www.youtube.com/watch?v=OPaLnMw2i_0
